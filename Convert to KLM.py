@@ -1,4 +1,4 @@
-# Version 2.0 (starting...)
+# Version 2.0
 
 import pandas as pd
 import simplekml
