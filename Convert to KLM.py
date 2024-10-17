@@ -1,3 +1,5 @@
+# Version 2.0
+
 import pandas as pd
 import simplekml
 import tkinter as tk
